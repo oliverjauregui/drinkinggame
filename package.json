@@ -1,0 +1,11 @@
+{
+  "name": "XXX",
+  "version": "1.0.0",
+  "description": "XXXX",
+  "main": "server.js",
+  "author": "XXX",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
